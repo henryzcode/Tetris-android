@@ -1,0 +1,9 @@
+.idea/
+.tmp.driverdownload/
+.tmp.driveupload/
+build/
+.tmp.drivedownload/
+.vscode/
+.vs/
+out/
+cmake-build-release/

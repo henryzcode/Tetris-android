@@ -1,0 +1,35 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Gradle & Kotlin caches
+.gradle/
+.kotlin/
+build/
+app/build/
+
+# IDE files & local configurations
+.idea/
+local.properties
+*.iml
+
+# Native C++ / NDK build cache
+app/.cxx/
+.cxx/
+
+# Release outputs & Keystores
+app/release/
+*.jks
+*.keystore
